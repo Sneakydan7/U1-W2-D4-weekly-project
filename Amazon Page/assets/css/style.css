@@ -70,6 +70,7 @@ main {
 .giftguides {
   background-image: url(../images/bg-image.png);
   margin-top: 30px;
+  background-size: 1100px;
 }
 .giftguides h1 {
   font-size: 2rem;
@@ -111,7 +112,6 @@ main {
   width: 21%;
   height: 300px;
   display: inline-block;
-  margin: auto;
   margin: 19px;
   box-shadow: 5px 6px 23px -9px rgba(0, 0, 0, 0.88);
   object-fit: cover;
